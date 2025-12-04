@@ -1,0 +1,18 @@
+# Certificados – Bootcamp Introdução à Microsoft Azure Advanced #2
+
+Este diretório registra os certificados e conquistas relacionadas a este bootcamp.
+
+## Cursos concluídos
+
+- Introdução à Microsoft – Azure Advanced #2  
+- Introdução à Computação em Nuvem  
+- Versionamento de Código com Git e GitHub  
+- Desafios de Projetos: Crie um Portfólio Vencedor  
+- Contribuindo em um Projeto Open Source no GitHub  
+- Trilha Criando Containers com Docker  
+- Trilha Orquestração de Contêineres com Kubernetes  
+- Overview Serverless  
+- Azure API Management Dashboard  
+- Introdução à Engenharia de Dados na Azure  
+- Introdução aos Conceitos de Serverless e Azure Functions  
+
